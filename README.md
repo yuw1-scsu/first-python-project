@@ -1,4 +1,5 @@
 # first-python-project
-first demo
-1st comment
-2nd comment
+# first demo
+**1st remark**.  
+_2nd remark_.  
+(http://southernct.edu)
