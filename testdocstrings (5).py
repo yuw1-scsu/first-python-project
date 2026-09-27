@@ -35,7 +35,7 @@ def main():
 
     # Display the average.
     print(f'Average with lowest score dropped: {average}')
-
+    print(f'end of main')
 
 def get_scores():
     '''
